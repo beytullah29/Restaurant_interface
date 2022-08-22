@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vf4hwsxOL2I38guMutrd4ax2uvZ8rEfSDvkxmQoMOX5LzjDkQt/EoerwhYnPRFgZwik+P/WKpaUzf3NsFDGdhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WiN10\\Documents\\Github\\Restaurant_interface\\restruant_otomasyon\\restruant_otomasyon\\restraurant_otomasyon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WiN10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

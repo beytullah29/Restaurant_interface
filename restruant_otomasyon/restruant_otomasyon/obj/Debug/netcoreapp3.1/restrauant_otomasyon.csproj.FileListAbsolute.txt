@@ -1,0 +1,14 @@
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\bin\Debug\netcoreapp3.1\restrauant_otomasyon.exe
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\bin\Debug\netcoreapp3.1\restrauant_otomasyon.deps.json
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\bin\Debug\netcoreapp3.1\restrauant_otomasyon.runtimeconfig.json
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\bin\Debug\netcoreapp3.1\restrauant_otomasyon.runtimeconfig.dev.json
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\bin\Debug\netcoreapp3.1\restrauant_otomasyon.dll
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\bin\Debug\netcoreapp3.1\restrauant_otomasyon.pdb
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\obj\Debug\netcoreapp3.1\restrauant_otomasyon.csproj.AssemblyReference.cache
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\obj\Debug\netcoreapp3.1\restrauant_otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\obj\Debug\netcoreapp3.1\restrauant_otomasyon.AssemblyInfoInputs.cache
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\obj\Debug\netcoreapp3.1\restrauant_otomasyon.AssemblyInfo.cs
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\obj\Debug\netcoreapp3.1\restrauant_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\obj\Debug\netcoreapp3.1\restrauant_otomasyon.dll
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\obj\Debug\netcoreapp3.1\restrauant_otomasyon.pdb
+C:\Users\WiN10\Desktop\btk akademi\restruant_otomasyon\restruant_otomasyon\obj\Debug\netcoreapp3.1\restrauant_otomasyon.genruntimeconfig.cache
